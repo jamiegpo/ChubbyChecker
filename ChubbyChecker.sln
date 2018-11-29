@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myClassLibrary", "myClassLibrary\myClassLibrary.csproj", "{1121D235-D164-4C2B-BA6B-53C6A2616869}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenBloatForm", "TokenBloatForm\TokenBloatForm.csproj", "{0059EED2-4CCD-47B9-B6EF-103A9DA8F71D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1121D235-D164-4C2B-BA6B-53C6A2616869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1121D235-D164-4C2B-BA6B-53C6A2616869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1121D235-D164-4C2B-BA6B-53C6A2616869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1121D235-D164-4C2B-BA6B-53C6A2616869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0059EED2-4CCD-47B9-B6EF-103A9DA8F71D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0059EED2-4CCD-47B9-B6EF-103A9DA8F71D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0059EED2-4CCD-47B9-B6EF-103A9DA8F71D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0059EED2-4CCD-47B9-B6EF-103A9DA8F71D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
